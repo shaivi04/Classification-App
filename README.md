@@ -1,6 +1,6 @@
 # Classification App
 
-A dogs and Cat Classification App using flutter
+A Dog and Cat classification app using flutter
 
 ## Getting Started
 
