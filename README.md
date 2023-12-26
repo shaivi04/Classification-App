@@ -1,4 +1,4 @@
-# practice
+# Classification App
 
 A new Flutter project.
 
