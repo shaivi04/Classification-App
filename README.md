@@ -1,6 +1,6 @@
 # Classification App
 
-A new Flutter project.
+A dogs and Cat Classification App using flutter
 
 ## Getting Started
 
